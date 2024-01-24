@@ -100,4 +100,8 @@
     .text-container {
       text-align: justify;
     }
+
+    .btn {
+      font-size: .8rem;
+    }
   }
