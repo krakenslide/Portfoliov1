@@ -45,6 +45,11 @@
     .about-containers {
       margin-top: 0;
     }
+    .img-size{
+      margin-top: -70px;
+      height: 350px;
+      width: 300px;
+    }
   }
   
   @media screen and (max-width: 600px) {
@@ -100,8 +105,12 @@
     .text-container {
       text-align: justify;
     }
-
     .btn {
       font-size: .8rem;
+    }
+    .img-size{
+      margin-top: -60px;
+      height: 250px;
+      width: 200px;
     }
   }

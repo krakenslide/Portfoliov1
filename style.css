@@ -199,6 +199,12 @@ section {
   text-align: center;
 }
 
+.img-size{
+  margin-top: -150px;
+  height: 500px;
+  width: 500px;
+}
+
 #socials-container {
   display: flex;
   justify-content: center;
