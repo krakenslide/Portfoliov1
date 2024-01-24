@@ -109,8 +109,10 @@
       font-size: .8rem;
     }
     .img-size{
-      margin-top: -60px;
-      height: 250px;
-      width: 200px;
+      z-index: -1;
+      padding-left: 2rem;
+      margin-top: -170px;
+      height: 360px;
+      width: 280px;
     }
   }

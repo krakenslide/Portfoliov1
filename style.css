@@ -200,8 +200,9 @@ section {
 }
 
 .img-size{
-  margin-top: -150px;
-  height: 500px;
+  z-index: -1;
+  margin-top: -200px;
+  height: 550px;
   width: 500px;
 }
 
