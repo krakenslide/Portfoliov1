@@ -6,7 +6,7 @@ const toggleMenu = () => {
 };
 
 var autoType = new Typed(".autoType", {
-    strings: ["Ankit Mukhopadhyay", "Coding", "Bug Bashing"],
+    strings: ["Ankit", "Coding", "Bug Bashing"],
     typeSpeed: 200,
     backSpeed: 200,
     loop: true
