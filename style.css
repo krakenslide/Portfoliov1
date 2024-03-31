@@ -377,8 +377,8 @@ article .icon {
 
 .project-img{
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 450px;
+    height: 250px;
 }
 
 .project-title{
@@ -430,6 +430,12 @@ article .icon {
     height: 2.5rem;
 }
 
+.tech-stack {
+  margin-bottom: 1rem;
+  font-size: 1.1rem; /* Adjust font size */
+  color: gray; /* Adjust color */
+}
+
 /*Footer section*/
 
 footer{
@@ -440,3 +446,5 @@ footer{
 footer p{
     text-align: center;
 }
+
+
